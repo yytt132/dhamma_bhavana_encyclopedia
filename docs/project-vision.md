@@ -20,6 +20,11 @@ This project aims to build that missing Korean-language knowledge base: careful 
 
 이 프로젝트의 목적은 그 빈자리를 채우는 것이다. 단순한 용어 사전이 아니라, 개념의 역사, 원어, 전통별 의미 차이, 실제 수행 맥락, 현대적 오해, 관련 원전과 참고문헌을 함께 정리하는 한국어 수행 지식 기반을 만드는 것이 목표다.
 
+Detailed mission statements:
+
+- Korean: `docs/mission-ko.md`
+- English: `docs/mission-en.md`
+
 It is inspired by several models:
 
 - Stanford Encyclopedia of Philosophy: long-form, reviewed concept essays.
