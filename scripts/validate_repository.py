@@ -27,8 +27,9 @@ REQUIRED_DOCS = [
     "docs/mission-en.md",
     "docs/editorial-guide.md",
     "docs/copyright-policy.md",
-    "docs/openai-oss-application.md",
-    "docs/api-credit-plan.md",
+    "docs/dhammareader-integration.md",
+    "docs/founder-statement-ko.md",
+    "docs/founder-statement-en.md",
 ]
 
 REQUIRED_SCHEMAS = [
@@ -164,7 +165,12 @@ def check_content_frontmatter() -> None:
 
 def check_mission_links() -> None:
     readme = (ROOT / "README.md").read_text(encoding="utf-8")
-    for expected in ["docs/mission-ko.md", "docs/mission-en.md", "docs/openai-oss-application.md"]:
+    for expected in [
+        "docs/mission-en.md",
+        "docs/founder-statement-ko.md",
+        "docs/dhammareader-integration.md",
+        "docs/core-entry-roadmap.md",
+    ]:
         if expected not in readme:
             fail(f"README.md should link to {expected}")
 

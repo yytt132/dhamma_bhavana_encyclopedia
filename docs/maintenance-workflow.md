@@ -45,9 +45,9 @@ Check:
 4. Push the tag.
 5. Publish release notes on GitHub.
 
-## Codex Use
+## AI-Assisted Maintenance
 
-Codex can help with:
+AI tools can help with:
 
 - issue triage
 - PR summaries
@@ -56,4 +56,4 @@ Codex can help with:
 - entry outline drafts
 - release note drafts
 
-Codex should not be treated as final scholarly authority.
+AI output should not be treated as final scholarly authority. Publication-quality entries require human review.

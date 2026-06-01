@@ -9,6 +9,11 @@ All notable changes to this project will be documented here.
 - Documented the intended public deployment path through Dhamma Reader.
 - Added Dhamma Reader integration plan.
 
+### Changed
+
+- Rewrote `README.md` as a Korean-first project page.
+- Removed application-specific planning documents from the public encyclopedia repository.
+
 ## [0.1.0] - 2026-06-01
 
 ### Added
