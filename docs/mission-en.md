@@ -23,3 +23,4 @@ We aim to:
 
 This project is not just an attempt to collect more information. It is an attempt to build a clearer, deeper, safer path for people who study and practice in Korean.
 
+For the founding maintainer's background, see `docs/founder-statement-en.md`.

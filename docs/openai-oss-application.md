@@ -21,6 +21,12 @@ Primary maintainer.
 
 The maintainer is responsible for project direction, editorial policy, repository structure, source-aware data modeling, issue triage, review workflow, release planning, and integration of AI-assisted maintenance.
 
+## Maintainer Background
+
+The founding maintainer is based in Korea and works as a Buddhist meditation instructor and meditation instructor. The maintainer has practiced meditation for about ten years and studies Korean Buddhism, Southern/Theravada Buddhism, and Tibetan Buddhism. The maintainer is also working on Korean translation projects for the Taisho Buddhist canon, Pali canon, and Tibetan Buddhist canon.
+
+This background is directly relevant to the project. The encyclopedia is not only a software project or a dataset; it is a practitioner-centered knowledge infrastructure project created by someone actively engaged in meditation instruction, Buddhist study, and large-scale Korean translation work.
+
 ## Why This Repository Matters
 
 English-speaking Buddhist practitioners and researchers already have mature reference ecosystems: the Stanford Encyclopedia of Philosophy, the Digital Dictionary of Buddhism, the Princeton Dictionary of Buddhism, SuttaCentral, 84000, and many university or practice-oriented resources.
@@ -47,7 +53,7 @@ Codex support would directly reduce the maintenance burden and speed up safe, hu
 
 ## 500-Character Suitability Answer
 
-This project builds an open Korean encyclopedia of Buddhist and contemplative practice. English readers have SEP, DDB, Princeton, SuttaCentral, and 84000, but Korean practitioners lack a comparable open, practice-oriented reference. The repo defines schemas, editorial workflow, copyright policy, validation, and sample SEP-style entries to grow a source-aware public knowledge base for meditators, teachers, and serious beginners.
+This project builds an open Korean encyclopedia of Buddhist and contemplative practice. English readers have SEP, DDB, Princeton, SuttaCentral, and 84000, but Korean practitioners lack a comparable practice reference. The maintainer is a Korean Buddhist meditation instructor with 10 years of practice and canon translation work. The repo has schemas, editorial workflow, validation, and a public Dhamma Reader deployment path.
 
 ## 500-Character API Credit Plan
 
@@ -57,6 +63,7 @@ API credits will support open-source maintenance and editorial workflows: genera
 
 - Public repository.
 - Existing public deployment path through Dhamma Reader.
+- Maintainer has direct Buddhist meditation instruction, practice, study, and translation background.
 - Clear mission in Korean and English.
 - Open-source code license and separate content license.
 - Contribution, governance, copyright, security, and support policies.

@@ -11,6 +11,8 @@ An open-source, source-aware encyclopedia of Buddhist and contemplative practice
 
 - Mission, Korean: [`docs/mission-ko.md`](docs/mission-ko.md)
 - Mission, English: [`docs/mission-en.md`](docs/mission-en.md)
+- Founder statement, Korean: [`docs/founder-statement-ko.md`](docs/founder-statement-ko.md)
+- Founder statement, English: [`docs/founder-statement-en.md`](docs/founder-statement-en.md)
 - Why this project matters: [`docs/openai-oss-application.md`](docs/openai-oss-application.md)
 - API credit plan: [`docs/api-credit-plan.md`](docs/api-credit-plan.md)
 - Deployment target: [`docs/dhammareader-integration.md`](docs/dhammareader-integration.md)
@@ -39,6 +41,12 @@ This project combines:
 - Editorial workflows for human-reviewed AI-assisted scholarship.
 
 The goal is not to collapse all contemplative practices into one universal vocabulary. The project preserves tradition, lineage, language, method, goal, authority structure, and evidence status for each claim.
+
+## Founder Context
+
+The founding maintainer is based in Korea and works as a Buddhist meditation instructor and meditation instructor. The maintainer has practiced meditation for about ten years, studies Korean Buddhism, Southern/Theravada Buddhism, and Tibetan Buddhism, and is also working on Korean translation projects for the Taisho, Pali, and Tibetan Buddhist canons.
+
+This background shapes the project: it is built from the needs of practitioners, teachers, translators, and Korean-speaking students who need reliable public materials for Buddhist practice.
 
 ## Current Repository Status
 
