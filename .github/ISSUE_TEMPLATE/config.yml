@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Mission statement
+    url: https://github.com/yytt132/dhamma_bhavana_encyclopedia/blob/main/docs/mission-en.md
+    about: Read the English mission statement.
+  - name: Copyright policy
+    url: https://github.com/yytt132/dhamma_bhavana_encyclopedia/blob/main/docs/copyright-policy.md
+    about: Read the public copyright policy before contributing source-derived material.

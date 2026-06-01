@@ -1,6 +1,24 @@
 # Dhamma Bhavana Encyclopedia
 
+[![Validate repository](https://github.com/yytt132/dhamma_bhavana_encyclopedia/actions/workflows/validate.yml/badge.svg)](https://github.com/yytt132/dhamma_bhavana_encyclopedia/actions/workflows/validate.yml)
+[![Code License: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE)
+[![Content: CC BY-SA 4.0](https://img.shields.io/badge/content-CC%20BY--SA%204.0-green.svg)](LICENSE-CONTENT.md)
+[![Project status: v0.1 foundation](https://img.shields.io/badge/status-v0.1%20foundation-yellow.svg)](docs/roadmap.md)
+
 An open-source, source-aware encyclopedia of Buddhist and contemplative practice.
+
+## Reviewer Quick Links
+
+- Mission, Korean: [`docs/mission-ko.md`](docs/mission-ko.md)
+- Mission, English: [`docs/mission-en.md`](docs/mission-en.md)
+- Why this project matters: [`docs/openai-oss-application.md`](docs/openai-oss-application.md)
+- API credit plan: [`docs/api-credit-plan.md`](docs/api-credit-plan.md)
+- Core entry roadmap: [`docs/core-entry-roadmap.md`](docs/core-entry-roadmap.md)
+- Initial backlog: [`docs/initial-backlog.md`](docs/initial-backlog.md)
+- Editorial guide: [`docs/editorial-guide.md`](docs/editorial-guide.md)
+- Copyright policy: [`docs/copyright-policy.md`](docs/copyright-policy.md)
+- Governance: [`GOVERNANCE.md`](GOVERNANCE.md)
+- Maintenance workflow: [`docs/maintenance-workflow.md`](docs/maintenance-workflow.md)
 
 ## Why This Exists
 
@@ -20,6 +38,22 @@ This project combines:
 - Editorial workflows for human-reviewed AI-assisted scholarship.
 
 The goal is not to collapse all contemplative practices into one universal vocabulary. The project preserves tradition, lineage, language, method, goal, authority structure, and evidence status for each claim.
+
+## Current Repository Status
+
+This repository is in the `v0.1 public foundation` phase.
+
+It already includes:
+
+- Open-source license and separate content license.
+- Korean and English mission statements.
+- Editorial, copyright, contribution, governance, and support policies.
+- JSON schemas for entries, dossiers, source metadata, and source-aware claims.
+- Sample SEP-style entry, glossary entry, comparison entry, and concept dossiers.
+- GitHub issue templates, PR template, CODEOWNERS, and validation workflow.
+- A local validation script for JSON, content front matter, required docs, and repository safety checks.
+
+The next milestone is `v0.2 website prototype`: a static public site, search index, entry renderer, and review-status display.
 
 ## Korean Summary
 
@@ -81,6 +115,16 @@ Every entry should declare a review status:
 - First 25 glossary entries.
 - First 10 comparison essays.
 - Public source metadata index.
+
+See the full roadmap in [`docs/roadmap.md`](docs/roadmap.md).
+
+## OpenAI Codex OSS Support Fit
+
+This project is a strong fit for maintainer tooling because it requires continuous issue triage, source metadata normalization, schema validation, article drafting, cross-reference review, release workflow management, and copyright-safety checks.
+
+Codex would be used to help maintain an open Korean-language knowledge base for Buddhist and contemplative practice, while keeping final interpretation and publication decisions under human review.
+
+See [`docs/openai-oss-application.md`](docs/openai-oss-application.md) and [`docs/api-credit-plan.md`](docs/api-credit-plan.md).
 
 ## Suggested First Core Entries
 

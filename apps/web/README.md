@@ -1,6 +1,6 @@
 # Web App
 
-Placeholder for the future public website.
+Minimal static prototype for the future public website.
 
 Planned features:
 
@@ -13,3 +13,8 @@ Planned features:
 - Review status badges.
 - Source metadata panels.
 
+## Local Preview
+
+Open `index.html` in a browser.
+
+This prototype intentionally has no build step yet. A future version may move to a static site generator or framework after the content model stabilizes.

@@ -1,0 +1,39 @@
+- name: entry
+  color: "0E8A16"
+  description: Encyclopedia entry work
+- name: glossary
+  color: "1D76DB"
+  description: Short lexical entry work
+- name: comparison
+  color: "5319E7"
+  description: Comparative essay or matrix
+- name: source metadata
+  color: "BFD4F2"
+  description: Bibliographic or source metadata
+- name: editorial review
+  color: "FBCA04"
+  description: Review for structure, clarity, and style
+- name: subject review
+  color: "D93F0B"
+  description: Review for doctrine, language, history, or practice context
+- name: copyright
+  color: "B60205"
+  description: Copyright or licensing concern
+- name: schema
+  color: "C5DEF5"
+  description: Data schema and validation
+- name: website
+  color: "006B75"
+  description: Website, rendering, or search
+- name: automation
+  color: "0052CC"
+  description: CI, validation, release, or maintenance automation
+- name: good first issue
+  color: "7057FF"
+  description: Good for new contributors
+- name: help wanted
+  color: "008672"
+  description: Extra help is welcome
+- name: needs human review
+  color: "E99695"
+  description: AI-assisted or draft material requiring human review
