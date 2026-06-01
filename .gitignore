@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+.venv/
+__pycache__/
+
+# Build outputs
+dist/
+build/
+.next/
+out/
+
+# Local and private data
+.env
+.env.*
+private/
+corpus/
+references/
+downloads/
+*.pdf
+*.epub
+*.mobi
+*.azw3
+*.djvu
+*.sqlite
+*.db
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+

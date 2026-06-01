@@ -1,0 +1,38 @@
+[
+  {
+    "id": "princeton-dictionary-of-buddhism",
+    "title": "The Princeton Dictionary of Buddhism",
+    "authors": [
+      "Robert E. Buswell Jr.",
+      "Donald S. Lopez Jr."
+    ],
+    "year": 2014,
+    "publisher": "Princeton University Press",
+    "source_type": "dictionary",
+    "traditions": [
+      "Buddhist-general"
+    ],
+    "citation_status": "bibliographic-only",
+    "notes": "Bibliographic metadata only. Do not commit extracted dictionary text."
+  },
+  {
+    "id": "local-bhavana-ontology",
+    "title": "Bhavana Ontology: Source-Aware Map of Practice, Meditation, Yoga, and Contemplative Traditions",
+    "authors": [
+      "Dhamma Bhavana Encyclopedia project"
+    ],
+    "year": 2026,
+    "publisher": "",
+    "source_type": "local-corpus-aggregate",
+    "traditions": [
+      "Buddhist-general",
+      "Yoga/Hindu",
+      "Daoist/Qigong",
+      "Christian-contemplative",
+      "Secular-mindfulness/clinical"
+    ],
+    "citation_status": "restricted",
+    "notes": "Aggregate metadata derived from a private local corpus. Public repo should contain only metadata and original summaries, not copyrighted source text."
+  }
+]
+

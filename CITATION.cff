@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: Dhamma Bhavana Encyclopedia
+message: "If you use this project, please cite it as an open-source encyclopedia and ontology project."
+type: software
+authors:
+  - name: Dhamma Bhavana Encyclopedia contributors
+repository-code: "https://github.com/yytt132/dhamma_bhavana_encyclopedia"
+license: MIT
+date-released: 2026-06-01
+

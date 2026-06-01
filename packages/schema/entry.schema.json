@@ -1,0 +1,67 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/yytt132/dhamma_bhavana_encyclopedia/packages/schema/entry.schema.json",
+  "title": "Encyclopedia Entry",
+  "type": "object",
+  "required": ["id", "title", "entry_type", "status", "summary", "related_entries", "sources"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+[a-z0-9-]*$"
+    },
+    "title": {
+      "type": "string"
+    },
+    "title_original": {
+      "type": "string"
+    },
+    "title_ko": {
+      "type": "string"
+    },
+    "entry_type": {
+      "type": "string",
+      "enum": ["concept", "practice", "lexical", "tradition", "comparison", "source"]
+    },
+    "status": {
+      "type": "string",
+      "enum": ["stub", "draft", "sourced", "reviewed", "published", "needs-work"]
+    },
+    "summary": {
+      "type": "string"
+    },
+    "traditions": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "claim_types": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "doctrinal",
+          "practice-instruction",
+          "phenomenological",
+          "developmental-map",
+          "historical-scholarly",
+          "clinical-scientific",
+          "self-help-popular",
+          "esoteric-initiation",
+          "editorial-interpretation"
+        ]
+      }
+    },
+    "related_entries": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "sources": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "license": {
+      "type": "string",
+      "default": "CC-BY-SA-4.0"
+    }
+  }
+}
+

@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/yytt132/dhamma_bhavana_encyclopedia/packages/schema/claim.schema.json",
+  "title": "Source-Aware Claim",
+  "type": "object",
+  "required": ["id", "subject_id", "claim", "claim_type", "evidence_status", "source_ids"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+[a-z0-9-]*$"
+    },
+    "subject_id": {
+      "type": "string"
+    },
+    "claim": {
+      "type": "string"
+    },
+    "claim_type": {
+      "type": "string",
+      "enum": [
+        "doctrinal",
+        "practice-instruction",
+        "phenomenological",
+        "developmental-map",
+        "historical-scholarly",
+        "clinical-scientific",
+        "self-help-popular",
+        "esoteric-initiation",
+        "editorial-interpretation"
+      ]
+    },
+    "evidence_status": {
+      "type": "string",
+      "enum": [
+        "primary-source",
+        "traditional-commentary",
+        "scholarly-secondary",
+        "dictionary-reference",
+        "clinical-study",
+        "teacher-instruction",
+        "memoir",
+        "workbook",
+        "popular-unsourced",
+        "local-corpus-metadata"
+      ]
+    },
+    "source_ids": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "notes": {
+      "type": "string"
+    }
+  }
+}

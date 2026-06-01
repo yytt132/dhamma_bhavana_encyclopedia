@@ -1,0 +1,38 @@
+{
+  "concept_id": "bhavana",
+  "title": "Bhavana",
+  "title_original": "bhavana",
+  "title_ko": "수행, 수습, 계발",
+  "entry_type": "concept",
+  "status": "draft",
+  "traditions": [
+    "Buddhist-general",
+    "Theravada/Early-Buddhist",
+    "Mahayana",
+    "Vajrayana/Tibetan/Tantra",
+    "Modern mindfulness"
+  ],
+  "key_questions": [
+    "Why is bhavana broader than the English word meditation?",
+    "How does bhavana relate to samatha and vipassana?",
+    "When does bhavana refer to a general path of cultivation rather than a technique?",
+    "How should modern mindfulness and self-development uses be distinguished from classical Buddhist cultivation?"
+  ],
+  "disambiguation_notes": [
+    "Do not equate bhavana with generic relaxation practice.",
+    "Do not collapse Buddhist cultivation, clinical mindfulness, and productivity-oriented attention training.",
+    "Track source tradition, method, object, goal, and claim type for each assertion."
+  ],
+  "related_entries": [
+    "samatha",
+    "vipassana",
+    "sati",
+    "samadhi",
+    "dhyana-jhana"
+  ],
+  "source_candidates": [
+    "princeton-dictionary-of-buddhism",
+    "local-bhavana-ontology"
+  ]
+}
+

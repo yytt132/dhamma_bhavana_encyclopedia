@@ -1,0 +1,56 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/yytt132/dhamma_bhavana_encyclopedia/packages/schema/source.schema.json",
+  "title": "Source Metadata",
+  "type": "object",
+  "required": ["id", "title", "source_type", "citation_status"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+[a-z0-9-]*$"
+    },
+    "title": {
+      "type": "string"
+    },
+    "authors": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "year": {
+      "type": ["integer", "null"]
+    },
+    "publisher": {
+      "type": "string"
+    },
+    "source_type": {
+      "type": "string",
+      "enum": [
+        "primary-text",
+        "commentary",
+        "dictionary",
+        "encyclopedia",
+        "scholarly-monograph",
+        "article",
+        "practice-manual",
+        "clinical-source",
+        "public-web",
+        "local-corpus-aggregate"
+      ]
+    },
+    "traditions": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "citation_status": {
+      "type": "string",
+      "enum": ["bibliographic-only", "short-citation-ok", "public-domain", "open-license", "restricted"]
+    },
+    "url": {
+      "type": "string"
+    },
+    "notes": {
+      "type": "string"
+    }
+  }
+}
+

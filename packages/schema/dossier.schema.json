@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/yytt132/dhamma_bhavana_encyclopedia/packages/schema/dossier.schema.json",
+  "title": "Concept Dossier",
+  "type": "object",
+  "required": ["concept_id", "title", "entry_type", "status", "key_questions", "related_entries", "source_candidates"],
+  "properties": {
+    "concept_id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+[a-z0-9-]*$"
+    },
+    "title": {
+      "type": "string"
+    },
+    "title_original": {
+      "type": "string"
+    },
+    "title_ko": {
+      "type": "string"
+    },
+    "entry_type": {
+      "type": "string",
+      "enum": ["concept", "practice", "lexical", "tradition", "comparison", "source"]
+    },
+    "status": {
+      "type": "string",
+      "enum": ["stub", "draft", "sourced", "reviewed", "published", "needs-work"]
+    },
+    "traditions": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "key_questions": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "disambiguation_notes": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "related_entries": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "source_candidates": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  }
+}
+

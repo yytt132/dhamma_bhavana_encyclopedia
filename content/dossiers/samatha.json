@@ -1,0 +1,34 @@
+{
+  "concept_id": "samatha",
+  "title": "Samatha",
+  "title_original": "samatha / shamatha",
+  "title_ko": "사마타, 지, 고요함",
+  "entry_type": "lexical",
+  "status": "stub",
+  "traditions": [
+    "Buddhist-general",
+    "Theravada/Early-Buddhist",
+    "Vajrayana/Tibetan/Tantra"
+  ],
+  "key_questions": [
+    "How is samatha defined across Buddhist traditions?",
+    "How does samatha relate to samadhi?",
+    "How should samatha be distinguished from generic concentration or relaxation?",
+    "How is samatha paired with or distinguished from vipassana?"
+  ],
+  "disambiguation_notes": [
+    "Do not equate samatha with ordinary focus training.",
+    "Track whether a source treats samatha as preliminary, paired with insight, or an integrated aspect of cultivation."
+  ],
+  "related_entries": [
+    "bhavana",
+    "vipassana",
+    "samadhi",
+    "dhyana-jhana"
+  ],
+  "source_candidates": [
+    "princeton-dictionary-of-buddhism",
+    "local-bhavana-ontology"
+  ]
+}
+
