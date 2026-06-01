@@ -18,6 +18,7 @@
 - Search index.
 - Related entry graph.
 - Review status labels.
+- Dhamma Reader integration plan.
 
 ## v0.3: First Public Corpus
 
@@ -26,6 +27,7 @@
 - 10 comparison essays.
 - Public source metadata.
 - Bibliography index.
+- First reviewed content export candidate for Dhamma Reader.
 
 ## v0.4: Review Workflow
 
@@ -42,4 +44,3 @@
 - 400-500 glossary entries.
 - 100-170 comparison essays.
 - Public knowledge graph export.
-

@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented here.
 
+## [Unreleased]
+
+### Added
+
+- Documented the intended public deployment path through Dhamma Reader.
+- Added Dhamma Reader integration plan.
+
 ## [0.1.0] - 2026-06-01
 
 ### Added

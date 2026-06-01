@@ -78,6 +78,17 @@ Credits can support:
 - Copyright-risk review.
 - Schema migration planning.
 
+### 7. Dhamma Reader Integration
+
+Credits can help prepare reviewed encyclopedia content for publication on the existing Dhamma Reader site:
+
+- Content export planning.
+- Entry metadata normalization.
+- Search index preparation.
+- Bilingual summary generation.
+- Link mapping between canon-reading pages and encyclopedia entries.
+- Release notes for public content updates.
+
 ## Out of Scope
 
 API credits will not be used to publish:

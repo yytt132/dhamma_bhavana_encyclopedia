@@ -2,6 +2,15 @@
 
 The public website should make the encyclopedia useful to non-technical Korean-speaking practitioners.
 
+## Deployment Target
+
+The long-term public destination is the existing Dhamma Reader ecosystem:
+
+- Website: https://dhammareader.com/
+- Repository: https://github.com/yytt132/dhammareader
+
+This repository can remain the source-of-truth for encyclopedia content, schemas, and editorial workflow, while Dhamma Reader serves as the public reading room where reviewed entries are published.
+
 ## v0.2 Prototype
 
 - Static landing page.

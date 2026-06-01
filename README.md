@@ -13,6 +13,7 @@ An open-source, source-aware encyclopedia of Buddhist and contemplative practice
 - Mission, English: [`docs/mission-en.md`](docs/mission-en.md)
 - Why this project matters: [`docs/openai-oss-application.md`](docs/openai-oss-application.md)
 - API credit plan: [`docs/api-credit-plan.md`](docs/api-credit-plan.md)
+- Deployment target: [`docs/dhammareader-integration.md`](docs/dhammareader-integration.md)
 - Core entry roadmap: [`docs/core-entry-roadmap.md`](docs/core-entry-roadmap.md)
 - Initial backlog: [`docs/initial-backlog.md`](docs/initial-backlog.md)
 - Editorial guide: [`docs/editorial-guide.md`](docs/editorial-guide.md)
@@ -54,6 +55,15 @@ It already includes:
 - A local validation script for JSON, content front matter, required docs, and repository safety checks.
 
 The next milestone is `v0.2 website prototype`: a static public site, search index, entry renderer, and review-status display.
+
+## Public Deployment Path
+
+The completed encyclopedia is intended to be published through the existing Dhamma Reader ecosystem:
+
+- Public site: [dhammareader.com](https://dhammareader.com/)
+- Deployment repository: [yytt132/dhammareader](https://github.com/yytt132/dhammareader)
+
+This repository focuses on open encyclopedia content, schemas, editorial workflow, and validation. The Dhamma Reader repository and domain provide the prepared public reading environment where reviewed encyclopedia content can later be integrated.
 
 ## Korean Summary
 

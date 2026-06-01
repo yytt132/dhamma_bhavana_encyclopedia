@@ -6,6 +6,15 @@ This document summarizes why this repository is a strong candidate for the Codex
 
 `yytt132/dhamma_bhavana_encyclopedia`
 
+## Public Deployment Target
+
+The completed encyclopedia has a prepared public destination:
+
+- Website: https://dhammareader.com/
+- Integration repository: https://github.com/yytt132/dhammareader
+
+This strengthens the project because the open-source encyclopedia is not only a research repository. It is designed to feed a real public reading platform for Korean-speaking Buddhist practitioners.
+
 ## Maintainer Role
 
 Primary maintainer.
@@ -32,6 +41,7 @@ This project has a real open-source maintenance workload:
 - Detect copyright-risk patterns before publication.
 - Maintain release notes, milestones, and public documentation.
 - Build website and search infrastructure.
+- Prepare clean content exports for integration into Dhamma Reader.
 
 Codex support would directly reduce the maintenance burden and speed up safe, human-reviewed publication.
 
@@ -46,6 +56,7 @@ API credits will support open-source maintenance and editorial workflows: genera
 ## Current Signals
 
 - Public repository.
+- Existing public deployment path through Dhamma Reader.
 - Clear mission in Korean and English.
 - Open-source code license and separate content license.
 - Contribution, governance, copyright, security, and support policies.

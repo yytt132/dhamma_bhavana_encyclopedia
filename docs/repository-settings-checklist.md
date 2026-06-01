@@ -26,7 +26,11 @@ contemplative-practice
 
 Website:
 
-Add the public site URL after the website prototype is deployed.
+```text
+https://dhammareader.com/
+```
+
+The completed encyclopedia is intended to be integrated into the existing Dhamma Reader ecosystem.
 
 ## Features
 
