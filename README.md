@@ -2,6 +2,16 @@
 
 An open-source, source-aware encyclopedia of Buddhist and contemplative practice.
 
+## Why This Exists
+
+English-speaking Buddhist practitioners and researchers already have access to many strong reference ecosystems: the Stanford Encyclopedia of Philosophy, the Digital Dictionary of Buddhism, the Princeton Dictionary of Buddhism, SuttaCentral, 84000, and other scholarly or practice-oriented resources.
+
+Korean-speaking practitioners do not yet have an open, reliable, practice-oriented encyclopedia of comparable usefulness. There are important Buddhist dictionaries and reference works, but there is still a gap for Korean meditators, dharma teachers, meditation instructors, and serious beginners who need clear, source-aware, accessible explanations of practice concepts.
+
+This project exists to help fill that gap.
+
+한국어를 사용하는 수행자, 명상지도사, 불교 공부를 시작하는 사람, 그리고 더 깊이 수행론을 이해하고 싶은 사람들을 위해 공개적인 수행 백과를 만드는 것이 이 프로젝트의 이유입니다.
+
 This project combines:
 
 - SEP-style scholarly essays for major concepts.
@@ -16,6 +26,8 @@ The goal is not to collapse all contemplative practices into one universal vocab
 **Dhamma Bhavana Encyclopedia**는 불교와 명상·수행 전통을 출처 기반으로 정리하는 오픈소스 백과 프로젝트입니다.
 
 SEP식 소논문, 불교 전문 사전식 용어 항목, 수행 온톨로지, 문헌 기반 주석 체계를 결합합니다. 최종 목표는 각 핵심 개념마다 신뢰 가능한 소논문형 항목을 만들고, 관련 용어·수행법·원전·비교 항목을 서로 연결하는 것입니다.
+
+자세한 한국어 사명문은 `docs/mission-ko.md`를 보세요.
 
 ## Project Scope
 
@@ -90,4 +102,3 @@ Every entry should declare a review status:
 - Public metadata and schemas: CC BY 4.0 unless a file says otherwise.
 
 Third-party sources remain under their own licenses. Do not add copyrighted PDFs, OCR dumps, or long extracted passages to this repository.
-
