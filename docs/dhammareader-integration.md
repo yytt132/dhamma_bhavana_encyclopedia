@@ -5,7 +5,6 @@ The completed encyclopedia is intended to be published through the existing Dham
 ## Public Destination
 
 - Website: https://dhammareader.com/
-- Repository: https://github.com/yytt132/dhammareader
 
 Dhamma Reader is already a public Buddhist reading room. This gives the encyclopedia a prepared publication path and an audience-facing destination.
 
@@ -24,9 +23,9 @@ This repository is the source-of-truth for:
 - Editorial workflow.
 - Validation and copyright-safety policy.
 
-### `dhammareader`
+### Dhamma Reader website
 
-The Dhamma Reader repository is the intended public integration surface for:
+Dhamma Reader is the intended public integration surface for:
 
 - User-facing encyclopedia pages.
 - Search and navigation.

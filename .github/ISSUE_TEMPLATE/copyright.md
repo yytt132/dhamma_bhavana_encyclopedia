@@ -20,3 +20,7 @@ Explain the concern.
 - [ ] Rewrite
 - [ ] Replace with metadata only
 - [ ] Needs maintainer review
+
+## Contact
+
+If you prefer private contact, email `pnymeditation@gmail.com`.

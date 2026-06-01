@@ -10,6 +10,12 @@
 - name: source metadata
   color: "BFD4F2"
   description: Bibliographic or source metadata
+- name: correction
+  color: "D4C5F9"
+  description: Typo, wording, factual correction, or small fix
+- name: review
+  color: "FBCA04"
+  description: General review request
 - name: editorial review
   color: "FBCA04"
   description: Review for structure, clarity, and style

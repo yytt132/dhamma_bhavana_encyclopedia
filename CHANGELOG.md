@@ -8,11 +8,16 @@ All notable changes to this project will be documented here.
 
 - Documented the intended public deployment path through Dhamma Reader.
 - Added Dhamma Reader integration plan.
+- Added maintainer email for typo, error, and source suggestions.
+- Added Korean contribution formats for correction reports, source recommendations, entry proposals, and original-language review.
+- Added a dedicated correction issue template.
+- Added correction and review labels.
 
 ### Changed
 
 - Rewrote `README.md` as a Korean-first project page.
 - Removed application-specific planning documents from the public encyclopedia repository.
+- Expanded entry, source metadata, review, and copyright issue templates with clearer fields.
 
 ## [0.1.0] - 2026-06-01
 
